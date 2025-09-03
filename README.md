@@ -44,7 +44,7 @@ I am an **aspiring analyst** currently pursuing a Master's degree in Business An
 
 ## Let's Connect!
 
-- **Email:** [shanmukavels@yahoo.in](mailto:shanmukavels@yahoo.in)
+- **Email:** [shanmukavels@yahoo.in](mailto:shanmukavels98@gmail.com)
 - **LinkedIn:** [Shanmukavel Senthil Kumar](https://www.linkedin.com/in/shanmukavel-senthil-kumar-851036263/)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
