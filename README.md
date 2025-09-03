@@ -1,10 +1,8 @@
 # 👋 Hello, I'm Shanmukavel Senthil Kumar
 
-![Profile Banner](https://via.placeholder.com/800x200.png?text=Welcome+to+My+GitHub+Profile)
-
 ## About Me
 
-I am an **aspiring analyst** currently pursuing a Master's degree in Business Analytics at Macquarie University, Australia (2023–2025). With a solid foundation in Information Technology from St. Joseph’s College of Engineering, Chennai (2020), I have developed a keen interest in **Data Analysis**, **Data Science**, and **Software Development**. I am highly organized, resourceful, and always eager to embrace new challenges. I am seeking entry-level opportunities that allow me to collaborate effectively within a team and take on significant responsibilities.
+I am an **aspiring analyst** with a Master's degree in Business Analytics at Macquarie University, Australia (2023–2025). With a solid foundation in Information Technology from St. Joseph’s College of Engineering, Chennai (2020), I have developed a keen interest in **Data Analysis**, **Data Science**, and **Software Development**. I am highly organized, resourceful, and always eager to embrace new challenges. I am seeking entry-level opportunities that allow me to collaborate effectively within a team and take on significant responsibilities.
 
 ## Technical Skills
 
