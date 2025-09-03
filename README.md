@@ -45,6 +45,4 @@ I am an **aspiring analyst** with a Master's degree in Business Analytics at Mac
 - **Email:** [shanmukavels@yahoo.in](mailto:shanmukavels98@gmail.com)
 - **LinkedIn:** [Shanmukavel Senthil Kumar](https://www.linkedin.com/in/shanmukavel-senthil-kumar-851036263/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
