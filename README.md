@@ -37,7 +37,7 @@ Data Analyst professional with over **2 years of experience**, backed by a Maste
 
 ## Certifications
 
---**AWS Cloud Quest: Generative AI Practitioner – Training Badge**
+- **AWS Cloud Quest: Generative AI Practitioner – Training Badge**
 - **AWS Cloud Practitioner**
 - **SQL (Basic)** – HackerRank
 - **Google Data Analytics** – Coursera
