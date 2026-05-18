@@ -2,7 +2,8 @@
 
 ## About Me
 
-I am an **aspiring analyst** with a Master's degree in Business Analytics at Macquarie University, Australia (2023–2025). With a solid foundation in Information Technology from St. Joseph’s College of Engineering, Chennai (2020), I have developed a keen interest in **Data Analysis**, **Data Science**, and **Software Development**. I am highly organized, resourceful, and always eager to embrace new challenges. I am seeking entry-level opportunities that allow me to collaborate effectively within a team and take on significant responsibilities.
+Data Analyst professional with over **2 years of experience**, backed by a Master's in Business Analytics. Across those years, worked on **data extraction and consultancy-style analysis**, **machine learning model development using Python**, and **end-to-end RPA automation** — delivering measurable outcomes in stakeholder engagement, processing efficiency, and operational costs. Gained this experience across the financial services, automotive, and information technology industries.
+
 
 ## Technical Skills
 
